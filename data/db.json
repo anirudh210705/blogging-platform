@@ -1,0 +1,10 @@
+{
+  "blogs": [
+    {
+      "id": "fb0b",
+      "title": "my first react project",
+      "body": "its the first course i watched fully",
+      "author": "yoshi"
+    }
+  ]
+}
